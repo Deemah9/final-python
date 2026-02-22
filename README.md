@@ -26,4 +26,3 @@ Swagger-UI can be used to test the application.
 
 The server will start at <http://localhost:5000>.
 
-test workflow
